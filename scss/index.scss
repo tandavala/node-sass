@@ -1,3 +1,7 @@
 @import "_colors";
 @import "_layouts";
-@import "_forms";
+@import "_form";
+
+body {
+  background: $clr-green;
+}
